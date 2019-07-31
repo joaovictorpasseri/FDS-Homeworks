@@ -1,2 +1,2 @@
 # FDS-Homeworks
-Primeiro Trabalho de Casa da Disciplina: Fundamentos de Ciência de Dados, FGV\RJ.
+Pasta com os trabalhos da disciplina: Fundamentos de Ciência de Dados, FGV\RJ.
